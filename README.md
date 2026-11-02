@@ -3,9 +3,9 @@
 
 ## STUDENT INFORMATION
 
-- **Student Name:** Imade Isaac
-- **Matriculation Number:** 25/17643
-- **Programme:** Software Engineering
+- **Student Name:** Adesanya Hameed 
+- **Matriculation Number:** 25/16450
+- **Programme:** Cybersecurity
 - **Course Code:** COS 201
 - **Course Title:** Computer Programming I
 
