@@ -1,9 +1,9 @@
 
 /*
  * COS 201 - Computer Programming I
- * Student: Imade Isaac
- * Matric No.: 25/17643
- * Programme: Software Engineering
+ * Student: Adesanya Hameed
+ * Matric No.: 25/16540
+ * Programme: Cybersecurity
  * Week 1 Practical: Introduction to Programming and Problem-Solving
  */
 public class FirstProgram {
@@ -22,13 +22,13 @@ public class FirstProgram {
         // Part 2: Student and course information
         System.out.println();
         System.out.println("------------ STUDENT INFORMATION ------------");
-        System.out.println("Student Name: Imade Isaac");
-        System.out.println("Matriculation Number: 25/17643");
-        System.out.println("Programme: Software Engineering");
+        System.out.println("Student Name: Adesanya hameed");
+        System.out.println("Matriculation Number: 25/16540");
+        System.out.println("Programme: Cybersecurity");
         System.out.println("Course Code: COS 201");
         System.out.println("Course Title: Computer Programming I");
 
-        // Part 3: Importance of programming to Software Engineering
+        // Part 3: Importance of programming to Cybersecuirty
         System.out.println();
         System.out.println("------ IMPORTANCE OF PROGRAMMING ------");
         System.out.println("1. Programming helps Software Engineers "
