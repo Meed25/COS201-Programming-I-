@@ -1,8 +1,8 @@
 
 /*
  * COS 201 - Computer Programming I
- * Student: Imade Isaac | Matric No.: 25/17643
- * Programme: Software Engineering
+ * Student: Adesanya hameed | Matric No.: 25/16540
+ * Programme: Cybersecurity
  * Week 2 Additional Practice: Corrected Syntax Example
  */
 public class ErrorExample {
@@ -18,8 +18,8 @@ public class ErrorExample {
                 + "ends with a semicolon.");
 
         // Display student information.
-        System.out.println("Student: Imade Isaac");
-        System.out.println("Matric Number: 25/17643");
-        System.out.println("Programme: Software Engineering");
+        System.out.println("Student: Adesanya hameed");
+        System.out.println("Matric Number: 25/16540");
+        System.out.println("Programme: Cybersecurity");
     }
 }
