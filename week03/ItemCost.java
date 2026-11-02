@@ -1,9 +1,9 @@
 
 /*
  * COS 201 - Computer Programming I
- * Student: Imade Isaac
- * Matric No.: 25/17643
- * Programme: Software Engineering
+ * Student: Adesanya hameed
+ * Matric No.: 25/16540
+ * Programme: Cybersecurity
  * Week 3 Practical: Item Cost Calculator
  * Concepts: Variables, Scanner input,
  * multiplication and formatted output.
@@ -21,9 +21,9 @@ public class ItemCost {
         System.out.println("              ITEM COST CALCULATOR");
         System.out.println("==============================================");
         System.out.println("Course: COS 201 - Computer Programming I");
-        System.out.println("Student: Imade Isaac");
-        System.out.println("Matric Number: 25/17643");
-        System.out.println("Programme: Software Engineering");
+        System.out.println("Student: Adesanya hameed");
+        System.out.println("Matric Number: 25/16540");
+        System.out.println("Programme: Cybersecurity");
         System.out.println();
 
         // Ask for the item name.
