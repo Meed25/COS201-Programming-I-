@@ -1,9 +1,9 @@
 
 /*
  * COS 201 - Computer Programming I
- * Student: Imade Isaac
- * Matric No.: 25/17643
- * Programme: Software Engineering
+ * Student: Adesanya hameed
+ * Matric No.: 25/16540
+ * Programme: Cybersecurity
  * Week 3 Practical: Student Average Calculator
  * Concepts: Variables, Scanner input, addition and division.
  */
@@ -20,9 +20,9 @@ public class AverageCalculator {
         System.out.println("           STUDENT AVERAGE CALCULATOR");
         System.out.println("==============================================");
         System.out.println("Course: COS 201 - Computer Programming I");
-        System.out.println("Student: Imade Isaac");
-        System.out.println("Matric Number: 25/17643");
-        System.out.println("Programme: Software Engineering");
+        System.out.println("Student: Adesanaya hameed");
+        System.out.println("Matric Number: 25/16540");
+        System.out.println("Programme: Cybersecurity");
         System.out.println();
 
         // Read the student's name.
