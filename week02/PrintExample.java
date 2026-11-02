@@ -1,8 +1,8 @@
 
 /*
  * COS 201 - Computer Programming I
- * Student: Imade Isaac | Matric No.: 25/17643
- * Programme: Software Engineering
+ * Student: Adesanya hameed | Matric No.: 25/16540
+ * Programme: Cybersecurity
  * Week 2 Additional Practice: print() and println()
  */
 public class PrintExample {
@@ -20,8 +20,8 @@ public class PrintExample {
 
         // Each println() statement displays text on a new line.
         System.out.println("Java");
-        System.out.println("Software Engineering");
-        System.out.println("Student: Imade Isaac");
-        System.out.println("Matric Number: 25/17643");
+        System.out.println("Cybersecurity");
+        System.out.println("Student: Adesanya hameed");
+        System.out.println("Matric Number: 25/16540");
     }
 }
