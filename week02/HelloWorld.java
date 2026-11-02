@@ -1,8 +1,8 @@
 
 /*
  * COS 201 - Computer Programming I
- * Student: Imade Isaac | Matric No.: 25/17643
- * Programme: Software Engineering
+ * Student: Adesanya hameed | Matric No.: 25/16540
+ * Programme: cybersecurity
  * Week 2 Practical: Development Environment and First Java Program
  */
 public class HelloWorld {
@@ -18,11 +18,11 @@ public class HelloWorld {
         System.out.println("==============================================");
         System.out.println("               COS 201 - WEEK 2");
         System.out.println("==============================================");
-        System.out.println("STUDENT NAME: Imade Isaac");
-        System.out.println("MATRIC NUMBER: 25/17643");
+        System.out.println("STUDENT NAME: Adesanya hameed");
+        System.out.println("MATRIC NUMBER: 25/16540");
         System.out.println("COURSE: COS 201");
         System.out.println("COURSE TITLE: Computer Programming I");
-        System.out.println("PROGRAMME: Software Engineering");
+        System.out.println("PROGRAMME: Cybersecurity");
         System.out.println("WEEK: 2");
         System.out.println("TOPIC: Development Environment and Java");
 
